@@ -12,6 +12,6 @@ script:
 deploy:
   provider: heroku
   api_key:
-    secure: <ENCRYPTED_API_KEY>
+    secure: N0jPv/3dIz0Zn1Sk37xM6WpdH1x2BUplvH8VIsn7woXjlOStvsrlqe7tbFarcVaGBnwJg3mBZgbDihRv0T26p4AH18Bm9znj1nBUO/cDhbvJWa1KR6O5ar9iW4Du0sNWGQHvuU+sWr5hksrCW64K++R7OUi4VWtN07KcVzGghZvUNCifExn8BGdUATa/EQLMEMNoiOAgg373tWnJToRkH8il+OUQxSLJQHZarxbGJxFXo3GP1GEZHUySDWgrx6x3IUMCqdHMtN+66eYdlI+qRkj7r0BWgD/T5JtDQ4z7uZcisgtt+mtaY4XLv+9axI83pM3UHd7p0KWvGQQJGdux/BJ8CSM3UU5q/LfFBt8daEGL8OJ42sszhXmn9F53QdekC0w5HNzJT/8yYyvZ6xQkkxjdLKQ8rgT+jM+aNlywpR9AAj1sD0MObFt+vHN/cmEBHR+gUvRed+F7er7XMpDsxT1Jg/PQPMtlB948rpcHrb8IVRLxZU+GxMfUUN4sefKRfG8zX56GMTfv82XpdpnQCMSJKspZW9LkRks5JBw6hrKIbzKqvfUbNhCtHv8ETK5542J6IntWkZ4d48zA2jD9jwYGrv9gwejscQZsHotlAPM9srLqTyDdsHVvksr3HVdAxaA/T28dv1xw4qTtoO5nEH06VlV4ASCq9wf2WTGr8ko=
   app:
     master: very-simple-todo-api
