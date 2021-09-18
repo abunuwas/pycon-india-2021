@@ -18,8 +18,8 @@
 
 ## How to work with this repo
 
-This repo provides examples for my talk at Manning's API conference 2021, titled 
-"API development worksflows for successful integrations".
+This repo provides examples for my talk at PyCon India 2021, titled 
+"Delivering successful API integrations with documentation-driven development".
 The code includes the implementation of a simple TODO REST API in Python, using 
 the popular FastAPI framework. The specification for the API is included under 
 the [oas.yaml](oas.yaml) file.
