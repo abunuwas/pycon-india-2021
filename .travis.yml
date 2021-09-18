@@ -14,4 +14,4 @@ deploy:
   api_key:
     secure: <ENCRYPTED_API_KEY>
   app:
-    master: europython-2021
+    master: very-simple-todo-api

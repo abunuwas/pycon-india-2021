@@ -1,16 +1,19 @@
-# EuroPython 2021
+# PyCon India 2021, 17-19 September 2021
 
-## Documentation-driven development for Python web APIs
+## Delivering successful API integrations with documentation-driven development
 
 ## Author: Jose Haro Peralta
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-haro-peralta/) [![image](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JoseHaroPeralta)
 
-### Full stack consultant; co-founder of [microapis.io](https://microapis.io)
+### Full stack consultant
 
-### Author of [Microservice APIs with Python](https://www.manning.com/books/microservice-apis-in-python)
+### Co-founder of [microapis.io](https://microapis.io)
 
-### 35% discount code: **ctweuro21**
+### Author of [Microservice APIs in Python](https://www.manning.com/books/microservice-apis-in-python)
+
+- 35% discount code: **ctwpyconin21**
+- Download two chapters of the book for free from this [link](https://www.microapis.io/resources/microservice-apis-in-python).
 
 
 ## How to work with this repo
